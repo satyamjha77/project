@@ -1,5 +1,5 @@
 import streamlit as st
-from PIL import Image
+
 from pull_news import get_news
 
 header = st.container()
